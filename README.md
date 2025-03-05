@@ -44,4 +44,20 @@ No necesitas herramientas adicionales para ejecutar este proyecto. Solo asegúra
 
 ### Ejecución local 🔥
 
-Este proyect
+Este proyecto no requiere ninguna instalación adicional. Simplemente abre el archivo `index.html` en tu navegador y empieza a usar la aplicación.
+
+## Construido con 🛠️
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - Para la estructura y diseño de la página.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Para los estilos visuales.
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Para la lógica de la aplicación (agregar nombres, realizar el sorteo, etc.).
+
+---
+
+🔹 **Asegúrate de que las imágenes estén en la carpeta `assets-readme/` en tu repositorio antes de subir los cambios.**  
+Una vez agregadas, guarda los cambios y súbelos a GitHub con los siguientes comandos:
+
+```bash
+git add .
+git commit -m "Actualizado README con imágenes locales"
+git push origin main
