@@ -26,19 +26,6 @@ Sigue estos pasos para obtener una copia del proyecto y empezar a trabajar local
 
 No necesitas herramientas adicionales para ejecutar este proyecto. Solo asegúrate de tener un navegador web como Firefox, Chrome, o sus variaciones. Si trabajas con Visual Studio Code, puedes utilizar la extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para una experiencia más fluida.
 
-### Instalación 🔧
-
-1. Clona el repositorio en tu máquina local:
-    ```bash
-    git clone https://github.com/Sodi0/challenge-amigo-secreto_esp-main.git
-    ```
-
-2. Navega al directorio del proyecto:
-    ```bash
-    cd challenge-amigo-secreto_esp-main
-    ```
-
-3. Abre el archivo `index.html` en tu navegador favorito para empezar a usar la aplicación.
 
 ### Ejecución local 🔥
 
